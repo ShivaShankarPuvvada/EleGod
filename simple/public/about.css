@@ -1,0 +1,88 @@
+* {
+	margin: 0;
+}
+
+html, body {
+	height: 100%;
+}
+
+h1, h2, h3,h4, h5, h6, p {
+
+	margin-bottom: 20px;
+}
+
+.sect {
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.subSect {
+	height: 50%;
+	background-color: white;
+}
+
+.sectOne{
+	background-image: url("http://wallpaper.pickywallpapers.com/1920x1080/young-elephant.jpg"); 
+}
+
+.sectTwo{
+	background-image: url("https://awesomewallpapers.files.wordpress.com/2015/05/nhnzfmx-imgur.jpg");
+}	
+
+.sectThree{
+	background-image: url("https://wallpaperscraft.com/image/elephant_sand_dust_sky_65428_1920x1080.jpg");
+}
+
+.partOne{
+	background-image: url("http://classroomclipart.com/images/gallery/Clipart/Animals/Elephant_Clipart/cute-elephant-snaching-branch-from-tree.jpg");
+	background-repeat: no-repeat;
+
+}
+
+.partTwo{
+	background-image: url("https://img.clipartfest.com/6ce071e444029857dfa38439f429adcb_baby-elephant-baby-elephant-clipart-png_432-432.png");
+	background-repeat: no-repeat;
+}
+
+.partOne p {
+	height: 100%;
+	width: 50%;
+	background: white;
+	margin-left: auto;
+	padding: 120px 70px;
+	font-family: Candara;
+	font-size: 130%;
+	text-align: justify;
+}
+
+.partTwo p {
+	height: 100%;
+	width: 50%;
+	background: white;
+	margin-left: auto;
+	padding: 170px 70px;
+	font-family: Candara;
+	font-size: 130%;
+	text-align: justify;
+}
+
+/*Nav code starts*/
+nav {
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	background-color: rgba(0,0,0,.5);
+	z-index: 99;
+	text-align: center;
+}
+
+nav a {
+	text-decoration: none;
+	color: #fff;
+	margin-left: 30px;
+	line-height: 50px;
+}
+
+/*Nav code ends*/
