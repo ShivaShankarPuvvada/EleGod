@@ -1,0 +1,15 @@
+*{
+	margin: 0px;
+}
+body {
+	background-image: url("https://wallpaperscraft.com/image/letters_pens_pen_desk_80588_1920x1080.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;	
+    background-attachment: fixed;
+    height: 100%;
+}
+h1{font-size: 48px; text-transform: uppercase; letter-spacing: 2px; padding-top: 70px; text-align: center;}
+p{font-size: 16px; text-align: center;}
+form{width: 400px; max-width: 100%; padding: 0px; margin: 20px auto;}
+input, label{display: block; margin: 10px 0; padding: 5px; width: 100%;}
+input[type = 'submit'] {width: auto;}

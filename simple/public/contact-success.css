@@ -1,0 +1,12 @@
+*{
+	margin: 0px;
+}
+body {
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/00/5e/cd/005ecdd8cfa95ae2d3b12b96deb7a034.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;	
+    background-attachment: fixed;
+    height: 100%;
+}
+h1{font-size: 48px; color: white; text-transform: uppercase; padding-top: 250px; letter-spacing: 2px; text-align: center;}
+p{font-size: 16px; text-align: center; font-size: 150%; padding-top: 20px; color: #03ffed;}

@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+}
+
 body {
 	background-image: url("http://slodive.com/wp-content/uploads/2012/09/plain-backgrounds/grungy-greenish-background.jpg");
     background-size: cover;
